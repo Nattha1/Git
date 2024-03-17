@@ -1,1 +1,1 @@
-echo("hello, Wold");
+print("helloworld")
